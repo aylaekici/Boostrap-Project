@@ -1,38 +1,32 @@
-# PAYLAŞTIKÇA | Bilgi Paylaştıkça Çoğalır!
 
-This is a responsive and modern multi-section website built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. The site is designed in Turkish and focuses on content sharing and user engagement.
+📌 Responsive Website Project
+This is a modern, responsive website designed to showcase a clean and user-friendly interface. The project focuses on visual appeal, smooth navigation, and accessibility across various screen sizes. It was built using Bootstrap, ensuring fast development and responsive design out of the box.
 
-## 🎯 Project Overview
+🎯 Features
+Fully responsive layout (mobile, tablet, desktop)
 
-**PAYLAŞTIKÇA** is a sample informational website that features:
-- A responsive navigation bar
-- An interactive image carousel
-- Clean sectioned layout for pages like Hakkımızda (About), Ekibimiz (Our Team), Galeri (Gallery), and İletişim (Contact)
+Hero section with prominent call-to-action
 
+About section with text and image layout
 
-#Screen Recording
+Services or features section with icons/cards
 
+Team section with team member profiles
 
+Contact section with form or contact info
 
+Smooth scrolling and consistent design language
 
+🛠️ Technologies Used
+HTML5
 
+CSS3
 
+Bootstrap 5
 
-## 🚀 Features
+JavaScript (for interactivity)
 
-- ✅ Fully responsive layout using Bootstrap 5
-- ✅ Smooth navigation with anchor links
-- ✅ Image carousel for showcasing visuals
-- ✅ Well-structured HTML/CSS
-- ✅ Turkish content, easy to localize
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (vanilla)
-- Bootstrap 5
-
+## Screen Recording
 
 
 
